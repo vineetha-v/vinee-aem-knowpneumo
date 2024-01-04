@@ -2,7 +2,7 @@
   "name": "@vineetha-v/vinee-aem-knowpneumo",
   "private": true,
   "version": "1.3.0",
-  "description": "Starter project for Adobe Helix",
+  "description": "Dummy project",
   "scripts": {
     "lint:js": "eslint .",
     "lint:css": "stylelint blocks/**/*.css styles/*.css",
